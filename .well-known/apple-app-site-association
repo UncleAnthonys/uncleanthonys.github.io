@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["29D3L5H4FU.com.littlefortstudios.quizinho"],
+        "components": [
+          { "/": "/quizinho/*", "?": { "join": "?*" }, "comment": "QR join links open the app when it's installed" }
+        ]
+      }
+    ]
+  }
+}
